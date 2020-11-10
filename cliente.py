@@ -37,7 +37,7 @@ f.write("Segundos Archivo 4: "+str(time4)+"\n")
 start_time = time.time()
 
 os.system('hashcat.exe -m1800 -a0 archivo_5 diccionario_1.dict diccionario_2.dict --force --outfile-format=2 -o out5.txt') #sha512crypt $6$, SHA512 (Unix)
-time5 = time() - start_time
+time5 = time.time() - start_time
 f.write("Segundos Archivo 5: "+str(time5)+"\n")
 
 f.close()

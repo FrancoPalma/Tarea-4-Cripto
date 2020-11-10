@@ -1,0 +1,5 @@
+Segundos Archivo 1: 7.7293572425842285
+Segundos Archivo 2: 7.687415361404419
+Segundos Archivo 3: 61.993168115615845
+Segundos Archivo 4: 7.853029251098633
+Segundos Archivo 5: 3250.6120319366455
